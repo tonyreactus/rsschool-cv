@@ -19,7 +19,7 @@ My goal is to become a Junior JS-Developer because it is very interesting and im
 
 ## 4 Skills
 
-I know basic JS (objects, arrays, functions, promises etc), basic work with git, DOM, HTML, CSSS.
+I know basic JS (objects, arrays, functions, promises etc), basic work with git, DOM, HTML, CSS.
 
 ## 5 Code
 
