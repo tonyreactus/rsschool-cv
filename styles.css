@@ -10,7 +10,14 @@
   align-items: center;
 }
 
-/* Style the header links */
+.nav {
+  list-style-type: none;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
 .header a {
   float: left;
   color: black;
